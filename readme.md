@@ -15,8 +15,6 @@ Hoe gaat het?
 * twee
 * driee 
 
-
-
 - [x] an image
 - [x] a url with custom text
 - [x] a numbered list
@@ -56,10 +54,7 @@ if (debeste){
    return true 
 }
 ```
-
-
-
-
+ 
 
 
 
@@ -67,7 +62,7 @@ if (debeste){
 
 ## Text editor: Studio Visual Code
 
-![Logo Visual Studio Code](https://cdn-images-1.medium.com/max/1200/1*4pcAVkaZOTLrcUV9dio3oA.png) 
+![Logo Visual Studio Code](https://cdn-images-1.medium.com/max/1200/1*4pcAVkaZOTLrcUV9dio3oA.png)
 ### Search for different IDE's online
 
 1. Visual Studio Code
@@ -140,7 +135,6 @@ BeCode(Git, Github)
 **FINALLY DONE! I NEED A BREAK NOW** 
 
 :pray::pray::pray::pray::pray:
-
 
 
 

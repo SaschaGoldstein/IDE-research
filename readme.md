@@ -24,3 +24,6 @@ Hoe gaat het?
 ```
 ***Door de uitgebreidde mogelijkheden kan je er veel meedoen***
 
+
+> With the power of Roslyn, Visual Studio for Mac brings IntelliSense to your fingertips. IntelliSense describes APIs as you type and uses auto-completion to increase the speed and accuracy of how you write code.
+

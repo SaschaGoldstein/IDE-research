@@ -30,4 +30,9 @@ Hoe gaat het?
 
 [https://visualstudio.microsoft.com/](readme.md)
 
+```
+if (debeste){
+   return true 
+}
+```
 
